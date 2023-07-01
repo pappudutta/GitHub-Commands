@@ -50,3 +50,13 @@ git push -u origin master
 
 or
 git push
+
+---------------------------  https://learngitbranching.js.org/  ----------------------------
+
+git checkout -b branchName :- create a branch and immediatly get active with this brach.
+
+git merge branchName :- go to main and commit first then merge branchName
+
+git rebase main :- command from braanch.
+
+
